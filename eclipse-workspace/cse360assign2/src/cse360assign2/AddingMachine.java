@@ -1,7 +1,7 @@
 //Author: Samira Said
 //Project: Assignment 2
 //Class ID: LR4
-//URL: https://github.com/samnejati/cse360assign2
+//URL: https://github.com/samsaid/cse360assign2
 //Description: This program adds and 
 		 // subtracts objects and stores to print
 
